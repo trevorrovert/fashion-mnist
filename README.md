@@ -2,11 +2,19 @@
 
 ## Purpose
 
-This repo is a sandbox for testing different  machine learning algorithms
+This repo is a sandbox for testing different machine learning algorithms.
 
 Currently this repo containes two Jupyter Notebooks, one for a neural net using tensorflow and keras and the other experimenting with kfolds using scikit-learn.
 
+## Tech-Stack
+
+I elected to use Jupeter Notebooks to test python based machine learning algorithms. 
+
 Jupyter Notebooks are web applications for creating and sharing computational documents in across multiple languages. Jupyter Notebooks are structured data that represent your code, metadata, content, and outputs. When saved to disk, the notebook uses the extension .ipynb, and uses a JSON structure. A big benefit to using Jupyter Notebooks is the ability to configure your runtime dependencies and environment.
+
+Will list all python modules used later...
+
+## Runtime Env
 
 I execute my notebooks in a linux environment on AWS Sagemaker but these notebooks can easily be ported to uses Google Colab as well.
 
