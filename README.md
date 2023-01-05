@@ -4,6 +4,8 @@
 
 This repo is a sandbox for testing different machine learning algorithms.
 
+Originally I was keeping these in AWS but decided to upload them to Github to share with anyone who wanted to experiment with them.
+
 Currently this repo containes two Jupyter Notebooks, one for a neural net using tensorflow and keras and the other experimenting with kfolds using scikit-learn.
 
 ## Tech-Stack
