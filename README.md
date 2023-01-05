@@ -18,7 +18,7 @@ Will list all python modules used later...
 
 ## Runtime Env
 
-I execute my notebooks in a linux environment on AWS Sagemaker but these notebooks can easily be ported to uses Google Colab as well.
+I execute my notebooks in a linux environment on AWS Sagemaker but these notebooks can easily be ported to use Google Colab as well.
 
 ## Dataset
 
